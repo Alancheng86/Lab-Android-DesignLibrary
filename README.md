@@ -1,5 +1,11 @@
 # Android Design Support Library Codelab
 
+
+http://blog.csdn.net/han_han_1/article/details/50549328
+
+
+
+
 A full tutorial on how to use Android Design Support Library. (60 mins)
 
 ![](https://raw.githubusercontent.com/nuuneoi/Lab-Android-DesignLibrary/master/promo.jpg)
